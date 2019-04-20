@@ -1,0 +1,23 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-gutenberg-repeatable-skeleton .item {
+  margin-bottom: 10px;
+}
+
+.wp-block-gutenberg-repeatable-skeleton .item .button {
+	margin: 0 5px; 
+}
+
+.wp-block-gutenberg-repeatable-skeleton .item .button.remove-row {
+  margin-left: 0; 
+}
+
+.wp-block-gutenberg-repeatable-skeleton .button.add-row {
+  margin-top: 25px; 
+}
+
+
